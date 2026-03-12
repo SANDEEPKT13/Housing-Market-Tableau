@@ -1284,7 +1284,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='37'>
-    <window class='dashboard' name='Housing Market Analysis Dashboard'>
+    <window class='dashboard' maximized='true' name='Housing Market Analysis Dashboard'>
       <viewpoints>
         <viewpoint name='Average Sale Price' />
         <viewpoint name='Count of Houses' />
@@ -1301,7 +1301,7 @@
       <device-preview visible='true' />
       <simple-id uuid='{CDAF242F-B44D-47BA-95B1-5CD38AAEA563}' />
     </window>
-    <window class='worksheet' maximized='true' name='Count of Houses'>
+    <window class='worksheet' name='Count of Houses'>
       <cards>
         <edge name='left'>
           <strip size='160'>
